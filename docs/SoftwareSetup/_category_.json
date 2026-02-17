@@ -1,0 +1,9 @@
+{
+  "label": "Настройка ПО",
+  "position": 3,
+  "link": {
+    "slug": "softwaresetup",
+    "type": "generated-index",
+    "description": "Настройка програмного обеспечения"
+  }
+}

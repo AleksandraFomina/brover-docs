@@ -1,0 +1,9 @@
+{
+  "label": "Электронные модули",
+  "position": 2,
+  "link": {
+    "slug": "hardware",
+    "type": "generated-index",
+    "description": "VBCores hardware elements"
+  }
+}

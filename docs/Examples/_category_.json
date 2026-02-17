@@ -1,0 +1,9 @@
+{
+  "label": "Примеры",
+  "position": 4,
+  "link": {
+    "slug": "examples",
+    "type": "generated-index",
+    "description": "Примеры"
+  }
+}
