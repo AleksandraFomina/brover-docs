@@ -1,0 +1,30 @@
+{
+  "id": "Introduction/web-interface",
+  "title": "Веб-интерфейс робота",
+  "description": "Веб-интерфейс",
+  "source": "@site/docs/Introduction/03-web-interface.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/web-interface",
+  "permalink": "/docs/Introduction/web-interface",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "web-interface",
+    "title": "Веб-интерфейс робота",
+    "sidebar_label": "Веб-интерфейс",
+    "sidebar_position": 3,
+    "description": "Веб-интерфейс"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Настройки сети и SSH",
+    "permalink": "/docs/Introduction/ssh-network-config"
+  },
+  "next": {
+    "title": "ROS2",
+    "permalink": "/docs/ROS"
+  }
+}

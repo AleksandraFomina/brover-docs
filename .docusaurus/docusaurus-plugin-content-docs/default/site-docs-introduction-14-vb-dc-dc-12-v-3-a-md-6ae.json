@@ -1,0 +1,31 @@
+{
+  "id": "Introduction/dcdc-12v3a",
+  "title": "VBCores 12V3A DCDC",
+  "description": "Designed for comfortable work with VBCores. Compatible with ST-Link 2.1 programmer.",
+  "source": "@site/docs/Introduction/14-vb-dc-dc-12v3a.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/dcdc12",
+  "permalink": "/docs/Introduction/dcdc12",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "id": "dcdc-12v3a",
+    "slug": "dcdc12",
+    "title": "VBCores 12V3A DCDC",
+    "sidebar_label": "Преобразователь питания 12В",
+    "sidebar_position": 14,
+    "description": "Designed for comfortable work with VBCores. Compatible with ST-Link 2.1 programmer."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Адаптер приграматора ST-Link",
+    "permalink": "/docs/Introduction/stlink-adapter"
+  },
+  "next": {
+    "title": "Т-энкодер (AS4047p)",
+    "permalink": "/docs/Introduction/t-encoder"
+  }
+}

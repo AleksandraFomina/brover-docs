@@ -1,0 +1,30 @@
+{
+  "id": "tutorials/motor-wheel-upgrage",
+  "title": "Переделка датчика мотор-колеса",
+  "description": "Переделка датчика мотор-колеса",
+  "source": "@site/docs/tutorials/06-datchik-motor-wheel.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/motor-wheel-upgrage",
+  "permalink": "/docs/tutorials/motor-wheel-upgrage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "motor-wheel-upgrage",
+    "title": "Переделка датчика мотор-колеса",
+    "sidebar_label": "Переделка датчика мотор-колеса",
+    "sidebar_position": 6,
+    "description": "Переделка датчика мотор-колеса"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Руководства",
+    "permalink": "/docs/tutorials"
+  },
+  "next": {
+    "title": "Подключение DC мотора к драйверу",
+    "permalink": "/docs/tutorials/dc-motor-to-driver-connect"
+  }
+}

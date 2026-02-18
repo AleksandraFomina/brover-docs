@@ -1,0 +1,30 @@
+{
+  "id": "Hardware/stepper-driver",
+  "title": "Драйвер шагового двигателя 10A",
+  "description": "Функциональная плата для управления шаговыми двигателями",
+  "source": "@site/docs/Hardware/05-vb-stepper-driver.md",
+  "sourceDirName": "Hardware",
+  "slug": "/Hardware/stepper-driver",
+  "permalink": "/docs/Hardware/stepper-driver",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "stepper-driver",
+    "title": "Драйвер шагового двигателя 10A",
+    "sidebar_label": "Драйвер шагового двигателя 10А",
+    "sidebar_position": 5,
+    "description": "Функциональная плата для управления шаговыми двигателями"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DC драйвер 15A",
+    "permalink": "/docs/Hardware/dc-driver"
+  },
+  "next": {
+    "title": "CAN-FD для Raspberry PI",
+    "permalink": "/docs/Hardware/canfd-hat"
+  }
+}

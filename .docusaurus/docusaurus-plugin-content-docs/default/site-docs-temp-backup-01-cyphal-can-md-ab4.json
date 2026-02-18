@@ -1,0 +1,30 @@
+{
+  "id": "temp_backup/cyphal-can",
+  "title": "Работа с Cyphal",
+  "description": "Работа с Cyphal",
+  "source": "@site/docs/temp_backup/01-cyphal-can.md",
+  "sourceDirName": "temp_backup",
+  "slug": "/temp_backup/cyphal-can",
+  "permalink": "/docs/temp_backup/cyphal-can",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "cyphal-can",
+    "title": "Работа с Cyphal",
+    "sidebar_label": "Работа с Cyphal",
+    "sidebar_position": 1,
+    "description": "Работа с Cyphal"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Руководства0",
+    "permalink": "/docs/tutorials"
+  },
+  "next": {
+    "title": "Работа с Cyphal на Ардуино",
+    "permalink": "/docs/temp_backup/cyphal-arduino"
+  }
+}

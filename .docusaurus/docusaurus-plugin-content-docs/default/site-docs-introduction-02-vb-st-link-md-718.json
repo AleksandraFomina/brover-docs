@@ -1,0 +1,31 @@
+{
+  "id": "Introduction/stm-programmer",
+  "title": "VBCore STM32 программатор",
+  "description": "VB STM32 программатор",
+  "source": "@site/docs/Introduction/02-vb-st-link.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/stm-programmer",
+  "permalink": "/docs/Introduction/stm-programmer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "stm-programmer",
+    "slug": "stm-programmer",
+    "title": "VBCore STM32 программатор",
+    "sidebar_label": "Программатор STM32",
+    "sidebar_position": 2,
+    "description": "VB STM32 программатор"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Первое включение",
+    "permalink": "/docs/Introduction/first-start"
+  },
+  "next": {
+    "title": "BLDC драйвер 30A",
+    "permalink": "/docs/Introduction/bldc-driver"
+  }
+}

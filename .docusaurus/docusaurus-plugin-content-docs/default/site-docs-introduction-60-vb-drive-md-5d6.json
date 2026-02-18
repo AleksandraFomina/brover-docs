@@ -1,0 +1,26 @@
+{
+  "id": "Introduction/vb-drive",
+  "title": "Электропривод VB Drive M4310Rxx",
+  "description": "Компактный привод, разработанный для высокодинамичных движений, идеально подходящий для робототехнических проектов",
+  "source": "@site/docs/Introduction/60-vb-drive.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/vb-drive",
+  "permalink": "/docs/Introduction/vb-drive",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "id": "vb-drive",
+    "title": "Электропривод VB Drive M4310Rxx",
+    "sidebar_label": "Электропривод VB Drive M4310Rxx",
+    "sidebar_position": 60,
+    "description": "Компактный привод, разработанный для высокодинамичных движений, идеально подходящий для робототехнических проектов"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Комутационная плата для питания",
+    "permalink": "/docs/Introduction/ch-quick-connect"
+  }
+}

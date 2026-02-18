@@ -1,0 +1,24 @@
+{
+  "id": "interfacing_with_turtlebro/мounting-on-turtlebro",
+  "title": "мounting-on-turtlebro",
+  "description": "",
+  "source": "@site/docs/50-interfacing_with_turtlebro/10-мounting-on-turtlebro.md",
+  "sourceDirName": "50-interfacing_with_turtlebro",
+  "slug": "/interfacing_with_turtlebro/мounting-on-turtlebro",
+  "permalink": "/docs/interfacing_with_turtlebro/мounting-on-turtlebro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Общая информация",
+    "permalink": "/docs/overview"
+  },
+  "next": {
+    "title": "сonfiguring-communication",
+    "permalink": "/docs/interfacing_with_turtlebro/сonfiguring-communication"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "interfacing_with_mors/сonfiguring-communication",
+  "title": "сonfiguring-communication",
+  "description": "",
+  "source": "@site/docs/60-interfacing_with_mors/20-сonfiguring-communication.md",
+  "sourceDirName": "60-interfacing_with_mors",
+  "slug": "/interfacing_with_mors/сonfiguring-communication",
+  "permalink": "/docs/interfacing_with_mors/сonfiguring-communication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "мounting-on-mors",
+    "permalink": "/docs/interfacing_with_mors/мounting-on-mors"
+  },
+  "next": {
+    "title": "main-features",
+    "permalink": "/docs/interfacing_with_mors/main-features"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "tutorials/pycyphal",
+  "title": "PyCyphal. Работа с Cyphal на Python",
+  "description": "PyCyphal. Работа с Cyphal на Python",
+  "source": "@site/docs/tutorials/04-cyphal-py.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pycyphal",
+  "permalink": "/docs/tutorials/pycyphal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "pycyphal",
+    "title": "PyCyphal. Работа с Cyphal на Python",
+    "sidebar_label": "PyCyphal. Работа с Cyphal на Python",
+    "sidebar_position": 4,
+    "description": "PyCyphal. Работа с Cyphal на Python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Основные команды Yakut",
+    "permalink": "/docs/tutorials/commands-yakut"
+  },
+  "next": {
+    "title": "Работа с Cyphal на Ардуино",
+    "permalink": "/docs/tutorials/cyphal-arduino"
+  }
+}

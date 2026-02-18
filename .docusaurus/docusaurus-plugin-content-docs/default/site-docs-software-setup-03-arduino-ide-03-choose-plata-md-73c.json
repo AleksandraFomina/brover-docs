@@ -1,0 +1,20 @@
+{
+  "id": "SoftwareSetup/Arduino IDE/choose-plata",
+  "title": "choose-plata",
+  "description": "",
+  "source": "@site/docs/SoftwareSetup/03-Arduino IDE/03-choose-plata.md",
+  "sourceDirName": "SoftwareSetup/03-Arduino IDE",
+  "slug": "/SoftwareSetup/Arduino IDE/choose-plata",
+  "permalink": "/docs/SoftwareSetup/Arduino IDE/choose-plata",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Установка среды программирования на Ubuntu",
+    "permalink": "/docs/SoftwareSetup/Arduino IDE/install-software-on-ubuntu"
+  }
+}

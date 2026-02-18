@@ -1,0 +1,30 @@
+{
+  "id": "Examples/arduino-examples",
+  "title": "Примеры на ардуино",
+  "description": "Примеры на ардуино",
+  "source": "@site/docs/Examples/01-examples-arduino.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/arduino-examples",
+  "permalink": "/docs/Examples/arduino-examples",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "arduino-examples",
+    "title": "Примеры на ардуино",
+    "sidebar_label": "Примеры на ардуино",
+    "sidebar_position": 1,
+    "description": "Примеры на ардуино"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Примеры",
+    "permalink": "/docs/examples"
+  },
+  "next": {
+    "title": "Примеры на HAL",
+    "permalink": "/docs/Examples/hal-examples"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Hardware/vb-drive",
+  "title": "Электропривод VB Drive M4310Rxx",
+  "description": "Компактный привод, разработанный для высокодинамичных движений, идеально подходящий для робототехнических проектов",
+  "source": "@site/docs/Hardware/60-vb-drive.md",
+  "sourceDirName": "Hardware",
+  "slug": "/Hardware/vb-drive",
+  "permalink": "/docs/Hardware/vb-drive",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "id": "vb-drive",
+    "title": "Электропривод VB Drive M4310Rxx",
+    "sidebar_label": "Электропривод VB Drive M4310Rxx",
+    "sidebar_position": 60,
+    "description": "Компактный привод, разработанный для высокодинамичных движений, идеально подходящий для робототехнических проектов"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Комутационная плата для питания",
+    "permalink": "/docs/Hardware/ch-quick-connect"
+  },
+  "next": {
+    "title": "Датчик AS5047 (OEM)",
+    "permalink": "/docs/Hardware/as5047-oem"
+  }
+}

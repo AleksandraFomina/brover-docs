@@ -1,0 +1,24 @@
+{
+  "id": "interfacing_with_mors/мounting-on-mors",
+  "title": "мounting-on-mors",
+  "description": "",
+  "source": "@site/docs/60-interfacing_with_mors/10-мounting-on-mors.md",
+  "sourceDirName": "60-interfacing_with_mors",
+  "slug": "/interfacing_with_mors/мounting-on-mors",
+  "permalink": "/docs/interfacing_with_mors/мounting-on-mors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Общая информация",
+    "permalink": "/docs/overview"
+  },
+  "next": {
+    "title": "сonfiguring-communication",
+    "permalink": "/docs/interfacing_with_mors/сonfiguring-communication"
+  }
+}

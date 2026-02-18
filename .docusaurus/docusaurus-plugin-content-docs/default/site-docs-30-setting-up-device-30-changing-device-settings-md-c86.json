@@ -1,0 +1,24 @@
+{
+  "id": "setting-up-device/changing-device-settings",
+  "title": "changing-device-settings",
+  "description": "Робоголова Bbrain позволяет гибко настраивать параметры устройства под ваши задачи. В этом разделе описаны основные настройки, которые можно изменить:",
+  "source": "@site/docs/30-setting-up-device/30-changing-device-settings.md",
+  "sourceDirName": "30-setting-up-device",
+  "slug": "/setting-up-device/changing-device-settings",
+  "permalink": "/docs/setting-up-device/changing-device-settings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "connecting-without-pswd",
+    "permalink": "/docs/setting-up-device/connecting-without-pswd"
+  },
+  "next": {
+    "title": "changing-network-name",
+    "permalink": "/docs/setting-up-device/changing-network-name"
+  }
+}

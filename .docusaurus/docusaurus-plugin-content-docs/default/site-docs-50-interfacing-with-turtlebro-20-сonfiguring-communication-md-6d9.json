@@ -1,0 +1,24 @@
+{
+  "id": "interfacing_with_turtlebro/сonfiguring-communication",
+  "title": "сonfiguring-communication",
+  "description": "Стартовые параметры окружения терминала и ROS",
+  "source": "@site/docs/50-interfacing_with_turtlebro/20-сonfiguring-communication.md",
+  "sourceDirName": "50-interfacing_with_turtlebro",
+  "slug": "/interfacing_with_turtlebro/сonfiguring-communication",
+  "permalink": "/docs/interfacing_with_turtlebro/сonfiguring-communication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "мounting-on-turtlebro",
+    "permalink": "/docs/interfacing_with_turtlebro/мounting-on-turtlebro"
+  },
+  "next": {
+    "title": "main-features",
+    "permalink": "/docs/interfacing_with_turtlebro/main-features"
+  }
+}

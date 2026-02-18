@@ -1,0 +1,24 @@
+{
+  "id": "setting-up-device/microphone-backlight-control",
+  "title": "Управление подсветкой микрофонного модуля",
+  "description": "Модуль ReSpeaker USB Mic Array оснащён кольцом из RGB-светодиодов (Pixel Ring). Подсветку можно настроить через ROS-сервис и параметры конфигурации.",
+  "source": "@site/docs/30-setting-up-device/35-microphone-backlight-control.md",
+  "sourceDirName": "30-setting-up-device",
+  "slug": "/setting-up-device/microphone-backlight-control",
+  "permalink": "/docs/setting-up-device/microphone-backlight-control",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 35,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "configuring-servos",
+    "permalink": "/docs/setting-up-device/configuring-servos"
+  },
+  "next": {
+    "title": "сhanging-standart-media-files",
+    "permalink": "/docs/setting-up-device/сhanging-standart-media-files"
+  }
+}

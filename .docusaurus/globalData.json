@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "overview",
+          "docs": [
+            {
+              "id": "Introduction/first-start",
+              "path": "/docs/Introduction/first-start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction/ssh-network-config",
+              "path": "/docs/Introduction/ssh-network-config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction/web-interface",
+              "path": "/docs/Introduction/web-interface",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview",
+              "path": "/docs/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2/image",
+              "path": "/docs/ROS2/image",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2/nodes",
+              "path": "/docs/ROS2/nodes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2/services",
+              "path": "/docs/ROS2/services",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2/topics",
+              "path": "/docs/ROS2/topics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction",
+              "path": "/docs/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS",
+              "path": "/docs/ROS",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/overview",
+                "label": "Общая информация"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

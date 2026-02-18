@@ -1,0 +1,30 @@
+{
+  "id": "SoftwareSetup/Arduino IDE/install-software-on-ubuntu",
+  "title": "Установка среды программирования на Ubuntu",
+  "description": "Устанавливаем ПО программатора, Arduino IDE, STM32duino на Ubuntu",
+  "source": "@site/docs/SoftwareSetup/03-Arduino IDE/02-install-ubuntu.md",
+  "sourceDirName": "SoftwareSetup/03-Arduino IDE",
+  "slug": "/SoftwareSetup/Arduino IDE/install-software-on-ubuntu",
+  "permalink": "/docs/SoftwareSetup/Arduino IDE/install-software-on-ubuntu",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "install-software-on-ubuntu",
+    "title": "Установка среды программирования на Ubuntu",
+    "sidebar_label": "Установка среды программирования на Ubuntu",
+    "sidebar_position": 2,
+    "description": "Устанавливаем ПО программатора, Arduino IDE, STM32duino на Ubuntu"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Установка среды программирования на Windows",
+    "permalink": "/docs/SoftwareSetup/Arduino IDE/install-software-on-windows"
+  },
+  "next": {
+    "title": "Выбор платы в Arduino IDE",
+    "permalink": "/docs/SoftwareSetup/Arduino IDE/board-selection"
+  }
+}

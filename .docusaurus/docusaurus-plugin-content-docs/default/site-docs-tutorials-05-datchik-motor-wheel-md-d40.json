@@ -1,0 +1,30 @@
+{
+  "id": "Tutorials/motor-wheel-sensor",
+  "title": "Переделка датчика мотор-колеса",
+  "description": "Переделка датчика мотор-колеса",
+  "source": "@site/docs/Tutorials/05-datchik-motor-wheel.md",
+  "sourceDirName": "Tutorials",
+  "slug": "/Tutorials/motor-wheel-sensor",
+  "permalink": "/docs/Tutorials/motor-wheel-sensor",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "motor-wheel-sensor",
+    "title": "Переделка датчика мотор-колеса",
+    "sidebar_label": "Переделка датчика мотор-колеса",
+    "sidebar_position": 5,
+    "description": "Переделка датчика мотор-колеса"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Yakut. Аналог can-utils для Cyphal",
+    "permalink": "/docs/Tutorials/yakut"
+  },
+  "next": {
+    "title": "Подключение DC мотора к драйверу",
+    "permalink": "/docs/Tutorials/dc-motor-to-driver-connect"
+  }
+}

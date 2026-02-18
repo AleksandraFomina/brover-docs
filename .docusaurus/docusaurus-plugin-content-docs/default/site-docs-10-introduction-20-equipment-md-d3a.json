@@ -1,0 +1,24 @@
+{
+  "id": "introduction/equipment",
+  "title": "equipment",
+  "description": "Робоголова Bbrain 1.0 поставляется в готовом к работе виде. В базовую комплектацию входит:",
+  "source": "@site/docs/10-introduction/20-equipment.md",
+  "sourceDirName": "10-introduction",
+  "slug": "/introduction/equipment",
+  "permalink": "/docs/introduction/equipment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "main-features",
+    "permalink": "/docs/introduction/main-features"
+  },
+  "next": {
+    "title": "нardware-configuration",
+    "permalink": "/docs/introduction/нardware-configuration"
+  }
+}

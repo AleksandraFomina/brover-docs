@@ -1,0 +1,24 @@
+{
+  "id": "introduction/display-driver",
+  "title": "Пакет display_driver",
+  "description": "Назначение выводить на него изображения и видео, выполнять потоковый вывод \"сырых\" изображений и обрабатывать данные с тачскрина.",
+  "source": "@site/docs/10-introduction/42-display-driver.md",
+  "sourceDirName": "10-introduction",
+  "slug": "/introduction/display-driver",
+  "permalink": "/docs/introduction/display-driver",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 42,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Пакет **robohead\\_controller**",
+    "permalink": "/docs/introduction/robohead-controller"
+  },
+  "next": {
+    "title": "Пакет neck_driver",
+    "permalink": "/docs/introduction/neck-driver"
+  }
+}

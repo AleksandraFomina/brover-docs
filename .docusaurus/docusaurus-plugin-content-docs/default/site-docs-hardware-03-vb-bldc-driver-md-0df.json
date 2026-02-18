@@ -1,0 +1,30 @@
+{
+  "id": "Hardware/bldc-driver",
+  "title": "BLDC драйвер 30A",
+  "description": "Плата драйвер для упроавления бесколлекторными двигателями",
+  "source": "@site/docs/Hardware/03-vb-bldc-driver.md",
+  "sourceDirName": "Hardware",
+  "slug": "/Hardware/bldc-driver",
+  "permalink": "/docs/Hardware/bldc-driver",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "bldc-driver",
+    "title": "BLDC драйвер 30A",
+    "sidebar_label": "BLDC драйвер 30A",
+    "sidebar_position": 3,
+    "description": "Плата драйвер для упроавления бесколлекторными двигателями"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Программатор STM32",
+    "permalink": "/docs/Hardware/stm-programmer"
+  },
+  "next": {
+    "title": "DC драйвер 15A",
+    "permalink": "/docs/Hardware/dc-driver"
+  }
+}

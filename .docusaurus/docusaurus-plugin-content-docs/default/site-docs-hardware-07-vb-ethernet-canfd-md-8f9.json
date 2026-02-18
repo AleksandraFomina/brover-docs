@@ -1,0 +1,30 @@
+{
+  "id": "Hardware/canfd-ethernet",
+  "title": "CAN-FD - Ethernet конвертер",
+  "description": "CAN-FD Ethernet конвретер обеспечивает пробрасывание сообщений кан шины в Ethernet",
+  "source": "@site/docs/Hardware/07-vb-ethernet-canfd.md",
+  "sourceDirName": "Hardware",
+  "slug": "/Hardware/canfd-ethernet",
+  "permalink": "/docs/Hardware/canfd-ethernet",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "canfd-ethernet",
+    "title": "CAN-FD - Ethernet конвертер",
+    "sidebar_label": "CAN-FD Ethernet конвертер",
+    "sidebar_position": 7,
+    "description": "CAN-FD Ethernet конвретер обеспечивает пробрасывание сообщений кан шины в Ethernet"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CAN-FD для Raspberry PI",
+    "permalink": "/docs/Hardware/canfd-hat"
+  },
+  "next": {
+    "title": "Плата управление питанием 30А",
+    "permalink": "/docs/Hardware/powerboard"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Introduction/dc-driver",
+  "title": "DC драйвер 15A",
+  "description": "Плата драйвер для управления коллекторными двигателями",
+  "source": "@site/docs/Introduction/04-dc-driver.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/dc-driver",
+  "permalink": "/docs/Introduction/dc-driver",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "dc-driver",
+    "title": "DC драйвер 15A",
+    "sidebar_label": "DC драйвер 15A",
+    "sidebar_position": 4,
+    "description": "Плата драйвер для управления коллекторными двигателями"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Веб-интерфейс",
+    "permalink": "/docs/Introduction/web-interface"
+  }
+}

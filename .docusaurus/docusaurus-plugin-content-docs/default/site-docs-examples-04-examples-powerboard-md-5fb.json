@@ -1,0 +1,30 @@
+{
+  "id": "Examples/examples-vb-powerboard",
+  "title": "Примеры работы с элементами PowerBoard",
+  "description": "Примеры работы с элементами PowerBoard",
+  "source": "@site/docs/Examples/04-examples-powerboard.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/examples-vb-powerboard",
+  "permalink": "/docs/Examples/examples-vb-powerboard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "examples-vb-powerboard",
+    "title": "Примеры работы с элементами PowerBoard",
+    "sidebar_label": "Примеры работы с элементами PowerBoard",
+    "sidebar_position": 4,
+    "description": "Примеры работы с элементами PowerBoard"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Примеры для привода VB Drive",
+    "permalink": "/docs/Examples/examples-vb-drive"
+  },
+  "next": {
+    "title": "Протокол Cyphal",
+    "permalink": "/docs/cyphal"
+  }
+}

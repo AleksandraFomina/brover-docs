@@ -1,0 +1,24 @@
+{
+  "id": "setting-up-device/сhanging-standart-media-files",
+  "title": "сhanging-standart-media-files",
+  "description": "В Робоголове Bbrain стандартные голосовые команды сопровождаются медиафайлами (изображения, аудио), расположенными в папке scripts/roboheadcontrolleractions//.",
+  "source": "@site/docs/30-setting-up-device/40-сhanging-standart-media-files.md",
+  "sourceDirName": "30-setting-up-device",
+  "slug": "/setting-up-device/сhanging-standart-media-files",
+  "permalink": "/docs/setting-up-device/сhanging-standart-media-files",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Управление подсветкой микрофонного модуля",
+    "permalink": "/docs/setting-up-device/microphone-backlight-control"
+  },
+  "next": {
+    "title": "changing-keywords",
+    "permalink": "/docs/setting-up-device/changing-keywords"
+  }
+}

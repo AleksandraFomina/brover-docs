@@ -1,9 +1,0 @@
-{
-  "label": "Руководства",
-  "position": 6,
-  "link": {
-    "slug": "tutorials",
-    "type": "generated-index",
-    "description": "Практические советы и примеры использования"
-  }
-}

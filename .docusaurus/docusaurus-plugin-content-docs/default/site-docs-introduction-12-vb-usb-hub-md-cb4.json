@@ -1,0 +1,31 @@
+{
+  "id": "Introduction/usb-hub",
+  "title": "USB HUB",
+  "description": "Встраиваемый безкорпусный USB хаб для роботов",
+  "source": "@site/docs/Introduction/12-vb-usb-hub.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/usb-hub",
+  "permalink": "/docs/Introduction/usb-hub",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "id": "usb-hub",
+    "slug": "usb-hub",
+    "title": "USB HUB",
+    "sidebar_label": "Встраиваемый USB хаб",
+    "sidebar_position": 12,
+    "description": "Встраиваемый безкорпусный USB хаб для роботов"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Адаптер для джойстика SBus",
+    "permalink": "/docs/Introduction/sbus-hid"
+  },
+  "next": {
+    "title": "Адаптер приграматора ST-Link",
+    "permalink": "/docs/Introduction/stlink-adapter"
+  }
+}

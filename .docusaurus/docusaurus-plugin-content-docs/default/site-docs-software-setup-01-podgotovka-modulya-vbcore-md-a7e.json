@@ -1,0 +1,30 @@
+{
+  "id": "SoftwareSetup/prepare-vbcore",
+  "title": "Подготовка модуля VBCore",
+  "description": "Подготовка модуля VBCore",
+  "source": "@site/docs/SoftwareSetup/01-podgotovka-modulya-vbcore.md",
+  "sourceDirName": "SoftwareSetup",
+  "slug": "/SoftwareSetup/prepare-vbcore",
+  "permalink": "/docs/SoftwareSetup/prepare-vbcore",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "prepare-vbcore",
+    "title": "Подготовка модуля VBCore",
+    "sidebar_label": "Подготовка модуля VBCore",
+    "sidebar_position": 1,
+    "description": "Подготовка модуля VBCore"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Настройка ПО",
+    "permalink": "/docs/softwaresetup"
+  },
+  "next": {
+    "title": "Настройка Power Board",
+    "permalink": "/docs/SoftwareSetup/setup-power-board"
+  }
+}

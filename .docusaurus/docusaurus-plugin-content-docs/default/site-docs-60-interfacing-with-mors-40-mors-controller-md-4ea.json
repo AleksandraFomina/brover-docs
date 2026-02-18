@@ -1,0 +1,20 @@
+{
+  "id": "interfacing_with_mors/mors_controller",
+  "title": "mors_controller",
+  "description": "",
+  "source": "@site/docs/60-interfacing_with_mors/40-mors_controller.md",
+  "sourceDirName": "60-interfacing_with_mors",
+  "slug": "/interfacing_with_mors/mors_controller",
+  "permalink": "/docs/interfacing_with_mors/mors_controller",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "main-features",
+    "permalink": "/docs/interfacing_with_mors/main-features"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "introduction/speakers-driver",
+  "title": "Пакет speakers_driver",
+  "description": "Назначение воспроизведение аудио, установку громкости.",
+  "source": "@site/docs/10-introduction/45-speakers-driver.md",
+  "sourceDirName": "10-introduction",
+  "slug": "/introduction/speakers-driver",
+  "permalink": "/docs/introduction/speakers-driver",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 45,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Пакет ears_driver",
+    "permalink": "/docs/introduction/ears-driver"
+  },
+  "next": {
+    "title": "Пакет respeaker_driver",
+    "permalink": "/docs/introduction/respeaker-driver"
+  }
+}

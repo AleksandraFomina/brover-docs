@@ -1,0 +1,24 @@
+{
+  "id": "getting-started/connecting-via-sftp",
+  "title": "Ubuntu",
+  "description": "1. Откройте файловый менеджер Nautilus. Для этого нажмите кнопку Show Apps в левом нижнем углу и в строке поиска введите Files",
+  "source": "@site/docs/20-getting-started/33-connecting-via-sftp.md",
+  "sourceDirName": "20-getting-started",
+  "slug": "/getting-started/connecting-via-sftp",
+  "permalink": "/docs/getting-started/connecting-via-sftp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 33,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "connecting-via-vscode",
+    "permalink": "/docs/getting-started/connecting-via-vscode"
+  },
+  "next": {
+    "title": "shutdown-device",
+    "permalink": "/docs/getting-started/shutdown-device"
+  }
+}

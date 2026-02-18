@@ -1,0 +1,31 @@
+{
+  "id": "Hardware/canhat-quick",
+  "title": "Комутационная плата для VB CAN-FD Raspberry",
+  "description": "Разработана для удобного подключения внешних устройств к VB CAN-FD Raspberry адаптеру",
+  "source": "@site/docs/Hardware/19-vb-canhat-quick-connect.md",
+  "sourceDirName": "Hardware",
+  "slug": "/Hardware/ch-quick-connect",
+  "permalink": "/docs/Hardware/ch-quick-connect",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "id": "canhat-quick",
+    "slug": "ch-quick-connect",
+    "title": "Комутационная плата для VB CAN-FD Raspberry",
+    "sidebar_label": "Комутационная плата для питания",
+    "sidebar_position": 19,
+    "description": "Разработана для удобного подключения внешних устройств к VB CAN-FD Raspberry адаптеру"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Отладочная плата для VBCore32g4 ",
+    "permalink": "/docs/Hardware/evaluation-board"
+  },
+  "next": {
+    "title": "Электропривод VB Drive M4310Rxx",
+    "permalink": "/docs/Hardware/vb-drive"
+  }
+}

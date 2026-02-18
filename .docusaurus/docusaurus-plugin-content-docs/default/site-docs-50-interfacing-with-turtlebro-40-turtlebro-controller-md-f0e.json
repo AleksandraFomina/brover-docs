@@ -1,0 +1,24 @@
+{
+  "id": "interfacing_with_turtlebro/turtlebro_controller",
+  "title": "turtlebro_controller",
+  "description": "",
+  "source": "@site/docs/50-interfacing_with_turtlebro/40-turtlebro_controller.md",
+  "sourceDirName": "50-interfacing_with_turtlebro",
+  "slug": "/interfacing_with_turtlebro/turtlebro_controller",
+  "permalink": "/docs/interfacing_with_turtlebro/turtlebro_controller",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "main-features",
+    "permalink": "/docs/interfacing_with_turtlebro/main-features"
+  },
+  "next": {
+    "title": "мounting-on-mors",
+    "permalink": "/docs/interfacing_with_mors/мounting-on-mors"
+  }
+}

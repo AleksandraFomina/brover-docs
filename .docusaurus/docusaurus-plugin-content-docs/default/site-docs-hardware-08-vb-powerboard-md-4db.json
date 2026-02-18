@@ -1,0 +1,30 @@
+{
+  "id": "Hardware/powerboard",
+  "title": "Плата управления питанием 30A",
+  "description": "Плата управления питанием робота. Ток до 30A",
+  "source": "@site/docs/Hardware/08-vb-powerboard.md",
+  "sourceDirName": "Hardware",
+  "slug": "/Hardware/powerboard",
+  "permalink": "/docs/Hardware/powerboard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "powerboard",
+    "title": "Плата управления питанием 30A",
+    "sidebar_label": "Плата управление питанием 30А",
+    "sidebar_position": 8,
+    "description": "Плата управления питанием робота. Ток до 30A"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CAN-FD Ethernet конвертер",
+    "permalink": "/docs/Hardware/canfd-ethernet"
+  },
+  "next": {
+    "title": "Инерциальный датчик  BHI360",
+    "permalink": "/docs/Hardware/bhi360"
+  }
+}

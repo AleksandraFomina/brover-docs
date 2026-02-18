@@ -1,0 +1,31 @@
+{
+  "id": "Introduction/ssh-network-config",
+  "title": "Настройки сети и SSH",
+  "description": "Настройки сети и SSH",
+  "source": "@site/docs/Introduction/02-ssh-network-config.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/ssh-network-config",
+  "permalink": "/docs/Introduction/ssh-network-config",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "ssh-network-config",
+    "slug": "ssh-network-config",
+    "title": "Настройки сети и SSH",
+    "sidebar_label": "Настройки сети и SSH",
+    "sidebar_position": 2,
+    "description": "Настройки сети и SSH"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Первое включение",
+    "permalink": "/docs/Introduction/first-start"
+  },
+  "next": {
+    "title": "Веб-интерфейс",
+    "permalink": "/docs/Introduction/web-interface"
+  }
+}

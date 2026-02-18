@@ -1,0 +1,31 @@
+{
+  "id": "Hardware/vbcore",
+  "title": "Микроконтроллерный модуль VBCore",
+  "description": "Микроконтроллерный модуль VBCore VB32G4",
+  "source": "@site/docs/Hardware/01-vb-core32g4.md",
+  "sourceDirName": "Hardware",
+  "slug": "/Hardware/vbcore",
+  "permalink": "/docs/Hardware/vbcore",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "vbcore",
+    "slug": "vbcore",
+    "title": "Микроконтроллерный модуль VBCore",
+    "sidebar_label": "МК модуль VBСore32G4",
+    "sidebar_position": 1,
+    "description": "Микроконтроллерный модуль VBCore VB32G4"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Электронные модули",
+    "permalink": "/docs/hardware"
+  },
+  "next": {
+    "title": "Программатор STM32",
+    "permalink": "/docs/Hardware/stm-programmer"
+  }
+}

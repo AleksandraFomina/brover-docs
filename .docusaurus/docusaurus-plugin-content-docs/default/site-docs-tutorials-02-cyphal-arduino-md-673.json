@@ -1,0 +1,30 @@
+{
+  "id": "Tutorials/cyphal-arduino",
+  "title": "Работа с Cyphal на Ардуино",
+  "description": "Работа с Cyphal на Ардуино",
+  "source": "@site/docs/Tutorials/02-cyphal-arduino.md",
+  "sourceDirName": "Tutorials",
+  "slug": "/Tutorials/cyphal-arduino",
+  "permalink": "/docs/Tutorials/cyphal-arduino",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "cyphal-arduino",
+    "title": "Работа с Cyphal на Ардуино",
+    "sidebar_label": "Работа с Cyphal на Ардуино",
+    "sidebar_position": 2,
+    "description": "Работа с Cyphal на Ардуино"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Работа с Cyphal",
+    "permalink": "/docs/Tutorials/cyphal-can"
+  },
+  "next": {
+    "title": "PyCyphal. Работа с Cyphal на Python",
+    "permalink": "/docs/Tutorials/pycyphal"
+  }
+}

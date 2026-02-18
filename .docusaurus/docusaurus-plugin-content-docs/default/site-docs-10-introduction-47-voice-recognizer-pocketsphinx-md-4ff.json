@@ -1,0 +1,24 @@
+{
+  "id": "introduction/voice-recognizer-pocketsphinx",
+  "title": "Пакет voice_recognizer_pocketsphinx",
+  "description": "Назначение: Пакет voicerecognizerpocketsphinx занимается распознаванием команд из потокового аудио сигнала, публикуемого в топик /roboheadcontroller/respeakerdriver/audio/main пакетом respeaker_driver.",
+  "source": "@site/docs/10-introduction/47-voice-recognizer-pocketsphinx.md",
+  "sourceDirName": "10-introduction",
+  "slug": "/introduction/voice-recognizer-pocketsphinx",
+  "permalink": "/docs/introduction/voice-recognizer-pocketsphinx",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 47,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Пакет respeaker_driver",
+    "permalink": "/docs/introduction/respeaker-driver"
+  },
+  "next": {
+    "title": "Пакет sensor_driver",
+    "permalink": "/docs/introduction/sensor-driver"
+  }
+}

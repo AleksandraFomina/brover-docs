@@ -1,0 +1,30 @@
+{
+  "id": "Tutorials/yakut",
+  "title": "Yakut. Аналог can-utils для Cyphal",
+  "description": "Yakut. Аналог can-utils для Cyphal",
+  "source": "@site/docs/Tutorials/04-yakut.md",
+  "sourceDirName": "Tutorials",
+  "slug": "/Tutorials/yakut",
+  "permalink": "/docs/Tutorials/yakut",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "yakut",
+    "title": "Yakut. Аналог can-utils для Cyphal",
+    "sidebar_label": "Yakut. Аналог can-utils для Cyphal",
+    "sidebar_position": 4,
+    "description": "Yakut. Аналог can-utils для Cyphal"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PyCyphal. Работа с Cyphal на Python",
+    "permalink": "/docs/Tutorials/pycyphal"
+  },
+  "next": {
+    "title": "Переделка датчика мотор-колеса",
+    "permalink": "/docs/Tutorials/motor-wheel-sensor"
+  }
+}

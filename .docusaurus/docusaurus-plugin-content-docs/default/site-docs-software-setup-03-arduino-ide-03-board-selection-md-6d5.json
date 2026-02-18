@@ -1,0 +1,30 @@
+{
+  "id": "SoftwareSetup/Arduino IDE/board-selection",
+  "title": "Выбор платы в Arduino IDE",
+  "description": "Выбор платы в Arduino IDE",
+  "source": "@site/docs/SoftwareSetup/03-Arduino IDE/03-board-selection.md",
+  "sourceDirName": "SoftwareSetup/03-Arduino IDE",
+  "slug": "/SoftwareSetup/Arduino IDE/board-selection",
+  "permalink": "/docs/SoftwareSetup/Arduino IDE/board-selection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "board-selection",
+    "title": "Выбор платы в Arduino IDE",
+    "sidebar_label": "Выбор платы в Arduino IDE",
+    "sidebar_position": 3,
+    "description": "Выбор платы в Arduino IDE"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Установка среды программирования на Ubuntu",
+    "permalink": "/docs/SoftwareSetup/Arduino IDE/install-software-on-ubuntu"
+  },
+  "next": {
+    "title": "Обзор доступного ПО",
+    "permalink": "/docs/SoftwareSetup/Arduino IDE/obzor-po"
+  }
+}

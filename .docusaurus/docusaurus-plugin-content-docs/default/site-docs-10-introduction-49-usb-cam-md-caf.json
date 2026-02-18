@@ -1,0 +1,24 @@
+{
+  "id": "introduction/usb-cam",
+  "title": "Пакет usb_cam",
+  "description": "Назначение: Пакет usb_cam обеспечивает захват видеопотока с USB-камеры и публикацию изображений в формате ROS Image сообщений.",
+  "source": "@site/docs/10-introduction/49-usb-cam.md",
+  "sourceDirName": "10-introduction",
+  "slug": "/introduction/usb-cam",
+  "permalink": "/docs/introduction/usb-cam",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 49,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Пакет sensor_driver",
+    "permalink": "/docs/introduction/sensor-driver"
+  },
+  "next": {
+    "title": "useful-links",
+    "permalink": "/docs/introduction/useful-links"
+  }
+}

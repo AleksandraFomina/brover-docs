@@ -1,0 +1,30 @@
+{
+  "id": "temp_backup/pycyphal",
+  "title": "PyCyphal. Работа с Cyphal на Python",
+  "description": "PyCyphal. Работа с Cyphal на Python",
+  "source": "@site/docs/temp_backup/03-cyphal-py.md",
+  "sourceDirName": "temp_backup",
+  "slug": "/temp_backup/pycyphal",
+  "permalink": "/docs/temp_backup/pycyphal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "pycyphal",
+    "title": "PyCyphal. Работа с Cyphal на Python",
+    "sidebar_label": "PyCyphal. Работа с Cyphal на Python",
+    "sidebar_position": 3,
+    "description": "PyCyphal. Работа с Cyphal на Python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Работа с Cyphal на Ардуино",
+    "permalink": "/docs/temp_backup/cyphal-arduino"
+  },
+  "next": {
+    "title": "Yakut. Аналог can-utils для Cyphal",
+    "permalink": "/docs/temp_backup/yakut"
+  }
+}

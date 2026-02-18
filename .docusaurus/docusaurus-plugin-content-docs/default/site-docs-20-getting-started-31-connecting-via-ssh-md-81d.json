@@ -1,0 +1,24 @@
+{
+  "id": "getting-started/connecting-via-ssh",
+  "title": "Подключение по сетевому имени в локальной сети",
+  "description": "По умолчанию на Raspberry Pi Робоголовы запущен SSH-сервис.",
+  "source": "@site/docs/20-getting-started/31-connecting-via-ssh.md",
+  "sourceDirName": "20-getting-started",
+  "slug": "/getting-started/connecting-via-ssh",
+  "permalink": "/docs/getting-started/connecting-via-ssh",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 31,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "connecting-to-device",
+    "permalink": "/docs/getting-started/connecting-to-device"
+  },
+  "next": {
+    "title": "connecting-via-vscode",
+    "permalink": "/docs/getting-started/connecting-via-vscode"
+  }
+}

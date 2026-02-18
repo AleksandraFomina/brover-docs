@@ -1,0 +1,30 @@
+{
+  "id": "SoftwareSetup/setup-power-board",
+  "title": "Настройка Power Board 30A",
+  "description": "Настройка Power Board",
+  "source": "@site/docs/SoftwareSetup/02-nastroika-power-board-30a.md",
+  "sourceDirName": "SoftwareSetup",
+  "slug": "/SoftwareSetup/setup-power-board",
+  "permalink": "/docs/SoftwareSetup/setup-power-board",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "setup-power-board",
+    "title": "Настройка Power Board 30A",
+    "sidebar_label": "Настройка Power Board",
+    "sidebar_position": 2,
+    "description": "Настройка Power Board"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Подготовка модуля VBCore",
+    "permalink": "/docs/SoftwareSetup/prepare-vbcore"
+  },
+  "next": {
+    "title": "Arduino IDE",
+    "permalink": "/docs/SoftwareSetup/Arduino IDE/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Hardware/vb-t-encoder-as5047",
+  "title": "Датчик с энкодером для мотор-колес (AS5047p)",
+  "description": "Датчик Т-формы для удобного встаривания в мотор-колеса от гироскутеров",
+  "source": "@site/docs/Hardware/15-vb-t-encoder-as5047.md",
+  "sourceDirName": "Hardware",
+  "slug": "/Hardware/t-encoder",
+  "permalink": "/docs/Hardware/t-encoder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "id": "vb-t-encoder-as5047",
+    "slug": "t-encoder",
+    "title": "Датчик с энкодером для мотор-колес (AS5047p)",
+    "sidebar_label": "Т-энкодер (AS4047p)",
+    "sidebar_position": 15,
+    "description": "Датчик Т-формы для удобного встаривания в мотор-колеса от гироскутеров"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Преобразователь питания 12В",
+    "permalink": "/docs/Hardware/dcdc12"
+  },
+  "next": {
+    "title": "Отладочная плата для VBCore32g4 ",
+    "permalink": "/docs/Hardware/evaluation-board"
+  }
+}

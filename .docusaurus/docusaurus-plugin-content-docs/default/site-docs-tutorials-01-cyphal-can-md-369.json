@@ -1,0 +1,30 @@
+{
+  "id": "tutorials/cyphal-can",
+  "title": "Cyphal CAN",
+  "description": "Работа с Cyphal",
+  "source": "@site/docs/tutorials/01-cyphal-can.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/cyphal-can",
+  "permalink": "/docs/tutorials/cyphal-can",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "cyphal-can",
+    "title": "Cyphal CAN",
+    "sidebar_label": "Cyphal CAN",
+    "sidebar_position": 1,
+    "description": "Работа с Cyphal"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Руководства",
+    "permalink": "/docs/tutorials"
+  },
+  "next": {
+    "title": "Yakut - аналог can-utils для Cyphal",
+    "permalink": "/docs/tutorials/yakut"
+  }
+}

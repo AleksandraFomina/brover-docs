@@ -1,0 +1,24 @@
+{
+  "id": "introduction/software",
+  "title": "software",
+  "description": "Робоголова Bbrain работает на полноценной ROS-архитектуре, обеспечивающей согласованное взаимодействие всех компонентов. Программная платформа построена по модульному принципу, где каждый аппаратный компонент управляется отдельным ROS-пакетом.",
+  "source": "@site/docs/10-introduction/40-software.md",
+  "sourceDirName": "10-introduction",
+  "slug": "/introduction/software",
+  "permalink": "/docs/introduction/software",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "нardware-configuration",
+    "permalink": "/docs/introduction/нardware-configuration"
+  },
+  "next": {
+    "title": "Пакет **robohead\\_controller**",
+    "permalink": "/docs/introduction/robohead-controller"
+  }
+}

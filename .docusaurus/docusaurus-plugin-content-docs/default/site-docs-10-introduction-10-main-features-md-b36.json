@@ -1,0 +1,24 @@
+{
+  "id": "introduction/main-features",
+  "title": "main-features",
+  "description": "Роботизированная голова Bbrain готова к работе сразу после включения и поддерживает интерактивное управление голосом. Основные функции, доступные пользователям из \"коробки\":",
+  "source": "@site/docs/10-introduction/10-main-features.md",
+  "sourceDirName": "10-introduction",
+  "slug": "/introduction/main-features",
+  "permalink": "/docs/introduction/main-features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Общая информация",
+    "permalink": "/docs/overview"
+  },
+  "next": {
+    "title": "equipment",
+    "permalink": "/docs/introduction/equipment"
+  }
+}

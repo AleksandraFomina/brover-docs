@@ -1,0 +1,30 @@
+{
+  "id": "Examples/hal-examples",
+  "title": "Примеры на HAL",
+  "description": "Примеры на HAL",
+  "source": "@site/docs/Examples/02-examples-hal.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/hal-examples",
+  "permalink": "/docs/Examples/hal-examples",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "hal-examples",
+    "title": "Примеры на HAL",
+    "sidebar_label": "Примеры на HAL",
+    "sidebar_position": 2,
+    "description": "Примеры на HAL"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Примеры на ардуино",
+    "permalink": "/docs/Examples/arduino-examples"
+  },
+  "next": {
+    "title": "Примеры для привода VB Drive",
+    "permalink": "/docs/Examples/examples-vb-drive"
+  }
+}

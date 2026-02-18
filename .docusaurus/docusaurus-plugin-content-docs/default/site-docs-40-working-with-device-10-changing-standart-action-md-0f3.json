@@ -1,0 +1,24 @@
+{
+  "id": "working-with-device/changing-standart-action",
+  "title": "changing-standart-action",
+  "description": "Стандартные действия — это готовые сценарии, которые позволяют Робоголове реагировать на голосовые команды, показывать мультимедиа и выполнять простые движения. Но всегда возникает желание добавить чего-то своего: новую картинку, другую мелодию, изменить угол наклона головы или даже добавить дополнительный эффект.",
+  "source": "@site/docs/40-working-with-device/10-changing-standart-action.md",
+  "sourceDirName": "40-working-with-device",
+  "slug": "/working-with-device/changing-standart-action",
+  "permalink": "/docs/working-with-device/changing-standart-action",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Общая информация",
+    "permalink": "/docs/overview"
+  },
+  "next": {
+    "title": "adding-new-action",
+    "permalink": "/docs/working-with-device/adding-new-action"
+  }
+}

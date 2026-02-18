@@ -1,0 +1,31 @@
+{
+  "id": "Hardware/sbus-hid",
+  "title": "Адаптер для джойстика SBus - USB",
+  "description": "Конвертер для подключения радиомодельных джойстиков работающих по протоколу SBus к USB",
+  "source": "@site/docs/Hardware/11-vb-sbus-hid.md",
+  "sourceDirName": "Hardware",
+  "slug": "/Hardware/sbus-hid",
+  "permalink": "/docs/Hardware/sbus-hid",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "id": "sbus-hid",
+    "slug": "sbus-hid",
+    "title": "Адаптер для джойстика SBus - USB",
+    "sidebar_label": "Адаптер для джойстика SBus",
+    "idebar_position": 11,
+    "description": "Конвертер для подключения радиомодельных джойстиков работающих по протоколу SBus к USB"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Инерциальный датчик BNO055",
+    "permalink": "/docs/Hardware/bno055"
+  },
+  "next": {
+    "title": "Встраиваемый USB хаб",
+    "permalink": "/docs/Hardware/usb-hub"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "SoftwareSetup/bhi360setup",
+  "title": "Настройка IMU BHI360",
+  "description": "Подготовка инерциального датчика BHI360 к работе",
+  "source": "@site/docs/SoftwareSetup/bhi360-setup.md",
+  "sourceDirName": "SoftwareSetup",
+  "slug": "/SoftwareSetup/bhi360-setup",
+  "permalink": "/docs/SoftwareSetup/bhi360-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "bhi360setup",
+    "slug": "bhi360-setup",
+    "title": "Настройка IMU BHI360",
+    "sidebar_label": "Настройка IMU BHI360",
+    "sidebar_position": 7,
+    "description": "Подготовка инерциального датчика BHI360 к работе"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Часто возникаемые ошибки при настройке CAN/CAN FD",
+    "permalink": "/docs/SoftwareSetup/rpi-errors"
+  }
+}

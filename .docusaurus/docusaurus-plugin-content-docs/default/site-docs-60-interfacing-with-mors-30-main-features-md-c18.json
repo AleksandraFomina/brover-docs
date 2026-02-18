@@ -1,0 +1,24 @@
+{
+  "id": "interfacing_with_mors/main-features",
+  "title": "main-features",
+  "description": "",
+  "source": "@site/docs/60-interfacing_with_mors/30-main-features.md",
+  "sourceDirName": "60-interfacing_with_mors",
+  "slug": "/interfacing_with_mors/main-features",
+  "permalink": "/docs/interfacing_with_mors/main-features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "сonfiguring-communication",
+    "permalink": "/docs/interfacing_with_mors/сonfiguring-communication"
+  },
+  "next": {
+    "title": "mors_controller",
+    "permalink": "/docs/interfacing_with_mors/mors_controller"
+  }
+}

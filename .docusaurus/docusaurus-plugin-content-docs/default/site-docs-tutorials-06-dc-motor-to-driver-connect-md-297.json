@@ -1,0 +1,30 @@
+{
+  "id": "Tutorials/dc-motor-to-driver-connect",
+  "title": "Подключение DC мотора к драйверу",
+  "description": "Подключение DC мотора к драйверу",
+  "source": "@site/docs/Tutorials/06-dc-motor-to-driver-connect.md",
+  "sourceDirName": "Tutorials",
+  "slug": "/Tutorials/dc-motor-to-driver-connect",
+  "permalink": "/docs/Tutorials/dc-motor-to-driver-connect",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "dc-motor-to-driver-connect",
+    "title": "Подключение DC мотора к драйверу",
+    "sidebar_label": "Подключение DC мотора к драйверу",
+    "sidebar_position": 6,
+    "description": "Подключение DC мотора к драйверу"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Переделка датчика мотор-колеса",
+    "permalink": "/docs/Tutorials/motor-wheel-sensor"
+  },
+  "next": {
+    "title": "Руководства0",
+    "permalink": "/docs/tutorials"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Tutorials/pycyphal",
+  "title": "PyCyphal. Работа с Cyphal на Python",
+  "description": "PyCyphal. Работа с Cyphal на Python",
+  "source": "@site/docs/Tutorials/03-cyphal-py.md",
+  "sourceDirName": "Tutorials",
+  "slug": "/Tutorials/pycyphal",
+  "permalink": "/docs/Tutorials/pycyphal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "pycyphal",
+    "title": "PyCyphal. Работа с Cyphal на Python",
+    "sidebar_label": "PyCyphal. Работа с Cyphal на Python",
+    "sidebar_position": 3,
+    "description": "PyCyphal. Работа с Cyphal на Python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Работа с Cyphal на Ардуино",
+    "permalink": "/docs/Tutorials/cyphal-arduino"
+  },
+  "next": {
+    "title": "Yakut. Аналог can-utils для Cyphal",
+    "permalink": "/docs/Tutorials/yakut"
+  }
+}

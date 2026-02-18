@@ -1,0 +1,27 @@
+{
+  "id": "Hardware/oem-encoder-as5047",
+  "title": "Датчик AS5047 (OEM)",
+  "description": "Датчик Т-формы для удобного встаривания в мотор-колеса от гироскутеров",
+  "source": "@site/docs/Hardware/91-oem-encoder-as5047.md",
+  "sourceDirName": "Hardware",
+  "slug": "/Hardware/as5047-oem",
+  "permalink": "/docs/Hardware/as5047-oem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 91,
+  "frontMatter": {
+    "id": "oem-encoder-as5047",
+    "slug": "as5047-oem",
+    "title": "Датчик AS5047 (OEM)",
+    "sidebar_label": "Датчик AS5047 (OEM)",
+    "sidebar_position": 91,
+    "description": "Датчик Т-формы для удобного встаривания в мотор-колеса от гироскутеров"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Электропривод VB Drive M4310Rxx",
+    "permalink": "/docs/Hardware/vb-drive"
+  }
+}

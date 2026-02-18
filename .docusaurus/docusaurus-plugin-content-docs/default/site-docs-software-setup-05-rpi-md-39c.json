@@ -1,0 +1,30 @@
+{
+  "id": "SoftwareSetup/rpi-setting",
+  "title": "Настройка RPI",
+  "description": "Настройка  CAN и CAN FD на Raspberry PI",
+  "source": "@site/docs/SoftwareSetup/05-RPI.md",
+  "sourceDirName": "SoftwareSetup",
+  "slug": "/SoftwareSetup/rpi-setting",
+  "permalink": "/docs/SoftwareSetup/rpi-setting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "rpi-setting",
+    "title": "Настройка RPI",
+    "sidebar_label": "Настройка RPI",
+    "sidebar_position": 5,
+    "description": "Настройка  CAN и CAN FD на Raspberry PI"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "STM32 CUBE IDE",
+    "permalink": "/docs/SoftwareSetup/stm32-cube-ide"
+  },
+  "next": {
+    "title": "Часто возникаемые ошибки при настройке CAN/CAN FD",
+    "permalink": "/docs/SoftwareSetup/rpi-errors"
+  }
+}

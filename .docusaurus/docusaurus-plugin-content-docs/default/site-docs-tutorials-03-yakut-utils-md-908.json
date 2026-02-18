@@ -1,0 +1,30 @@
+{
+  "id": "tutorials/commands-yakut",
+  "title": "Основные команды Yakut",
+  "description": "Описание основных команд Yakut",
+  "source": "@site/docs/tutorials/03-yakut-utils.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/commands-yakut",
+  "permalink": "/docs/tutorials/commands-yakut",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "commands-yakut",
+    "title": "Основные команды Yakut",
+    "sidebar_label": "Основные команды Yakut",
+    "sidebar_position": 3,
+    "description": "Описание основных команд Yakut"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Yakut - аналог can-utils для Cyphal",
+    "permalink": "/docs/tutorials/yakut"
+  },
+  "next": {
+    "title": "PyCyphal. Работа с Cyphal на Python",
+    "permalink": "/docs/tutorials/pycyphal"
+  }
+}

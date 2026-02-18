@@ -1,0 +1,24 @@
+{
+  "id": "setting-up-device/updating-os-image",
+  "title": "updating-os-image",
+  "description": "Зачем нужно обновлять образ ОС?",
+  "source": "@site/docs/30-setting-up-device/60-updating-os-image.md",
+  "sourceDirName": "30-setting-up-device",
+  "slug": "/setting-up-device/updating-os-image",
+  "permalink": "/docs/setting-up-device/updating-os-image",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "changing-keywords",
+    "permalink": "/docs/setting-up-device/changing-keywords"
+  },
+  "next": {
+    "title": "changing-standart-action",
+    "permalink": "/docs/working-with-device/changing-standart-action"
+  }
+}

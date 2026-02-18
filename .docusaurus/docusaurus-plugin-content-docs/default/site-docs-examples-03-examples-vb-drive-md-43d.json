@@ -1,0 +1,30 @@
+{
+  "id": "Examples/examples-vb-drive",
+  "title": "Примеры для привода VB Drive",
+  "description": "Примеры для привода VB Drive",
+  "source": "@site/docs/Examples/03-examples-vb-drive.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/examples-vb-drive",
+  "permalink": "/docs/Examples/examples-vb-drive",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "examples-vb-drive",
+    "title": "Примеры для привода VB Drive",
+    "sidebar_label": "Примеры для привода VB Drive",
+    "sidebar_position": 3,
+    "description": "Примеры для привода VB Drive"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Примеры на HAL",
+    "permalink": "/docs/Examples/hal-examples"
+  },
+  "next": {
+    "title": "Примеры работы с элементами PowerBoard",
+    "permalink": "/docs/Examples/examples-vb-powerboard"
+  }
+}

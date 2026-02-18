@@ -1,0 +1,31 @@
+{
+  "id": "Introduction/stlink-adapter",
+  "title": "VB ST-Link адаптер",
+  "description": "Переходник на для стандартных USB программаторов ST-Link 2.1 на разъем совместимый с VBCore32G4.",
+  "source": "@site/docs/Introduction/13-stlink-adapter.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/stlink-adapter",
+  "permalink": "/docs/Introduction/stlink-adapter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "id": "stlink-adapter",
+    "slug": "stlink-adapter",
+    "title": "VB ST-Link адаптер",
+    "sidebar_label": "Адаптер приграматора ST-Link",
+    "sidebar_position": 13,
+    "description": "Переходник на для стандартных USB программаторов ST-Link 2.1 на разъем совместимый с VBCore32G4."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Встраиваемый USB хаб",
+    "permalink": "/docs/Introduction/usb-hub"
+  },
+  "next": {
+    "title": "Преобразователь питания 12В",
+    "permalink": "/docs/Introduction/dcdc12"
+  }
+}

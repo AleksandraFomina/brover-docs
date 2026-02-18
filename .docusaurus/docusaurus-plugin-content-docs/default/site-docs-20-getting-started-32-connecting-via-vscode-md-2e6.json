@@ -1,0 +1,24 @@
+{
+  "id": "getting-started/connecting-via-vscode",
+  "title": "connecting-via-vscode",
+  "description": "Процесс настройки VSCode одинаков на всех операционных системах.",
+  "source": "@site/docs/20-getting-started/32-connecting-via-vscode.md",
+  "sourceDirName": "20-getting-started",
+  "slug": "/getting-started/connecting-via-vscode",
+  "permalink": "/docs/getting-started/connecting-via-vscode",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 32,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Подключение по сетевому имени в локальной сети",
+    "permalink": "/docs/getting-started/connecting-via-ssh"
+  },
+  "next": {
+    "title": "Ubuntu",
+    "permalink": "/docs/getting-started/connecting-via-sftp"
+  }
+}

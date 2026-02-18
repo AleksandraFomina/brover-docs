@@ -1,0 +1,30 @@
+{
+  "id": "SoftwareSetup/Arduino IDE/obzor-po",
+  "title": "Обзор доступного ПО",
+  "description": "Обзор доступного ПО",
+  "source": "@site/docs/SoftwareSetup/03-Arduino IDE/04-obzor-PO.md",
+  "sourceDirName": "SoftwareSetup/03-Arduino IDE",
+  "slug": "/SoftwareSetup/Arduino IDE/obzor-po",
+  "permalink": "/docs/SoftwareSetup/Arduino IDE/obzor-po",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "obzor-po",
+    "title": "Обзор доступного ПО",
+    "sidebar_label": "Обзор доступного ПО",
+    "sidebar_position": 4,
+    "description": "Обзор доступного ПО"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Выбор платы в Arduino IDE",
+    "permalink": "/docs/SoftwareSetup/Arduino IDE/board-selection"
+  },
+  "next": {
+    "title": "STM32 CUBE IDE",
+    "permalink": "/docs/SoftwareSetup/stm32-cube-ide"
+  }
+}

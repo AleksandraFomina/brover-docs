@@ -1,0 +1,26 @@
+{
+  "id": "ROS2/services",
+  "title": "ROS сервисы",
+  "description": "ROS сервисы",
+  "source": "@site/docs/ROS2/04-ROS-services.md",
+  "sourceDirName": "ROS2",
+  "slug": "/ROS2/services",
+  "permalink": "/docs/ROS2/services",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "services",
+    "title": "ROS сервисы",
+    "sidebar_label": "ROS сервисы",
+    "sidebar_position": 4,
+    "description": "ROS сервисы"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS топики",
+    "permalink": "/docs/ROS2/topics"
+  }
+}

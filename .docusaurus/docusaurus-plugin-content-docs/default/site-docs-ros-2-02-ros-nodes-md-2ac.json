@@ -1,0 +1,30 @@
+{
+  "id": "ROS2/nodes",
+  "title": "ROS ноды",
+  "description": "ROS ноды",
+  "source": "@site/docs/ROS2/02-ROS-nodes.md",
+  "sourceDirName": "ROS2",
+  "slug": "/ROS2/nodes",
+  "permalink": "/docs/ROS2/nodes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "nodes",
+    "title": "ROS ноды",
+    "sidebar_label": "ROS ноды",
+    "sidebar_position": 3,
+    "description": "ROS ноды"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Образ Raspberry Pi 5",
+    "permalink": "/docs/ROS2/image"
+  },
+  "next": {
+    "title": "ROS топики",
+    "permalink": "/docs/ROS2/topics"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "getting-started/connecting-to-device",
+  "title": "connecting-to-device",
+  "description": "Устройство поддерживает несколько способов удалённого подключения для управления, разработки и передачи файлов. Вы можете выбрать удобный вариант в зависимости от ваших задач.",
+  "source": "@site/docs/20-getting-started/30-connecting-to-device.md",
+  "sourceDirName": "20-getting-started",
+  "slug": "/getting-started/connecting-to-device",
+  "permalink": "/docs/getting-started/connecting-to-device",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "first-start",
+    "permalink": "/docs/getting-started/first-start"
+  },
+  "next": {
+    "title": "Подключение по сетевому имени в локальной сети",
+    "permalink": "/docs/getting-started/connecting-via-ssh"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "SoftwareSetup/rpi-errors",
+  "title": "Часто возникаемые ошибки при настройке CAN/CAN FD",
+  "description": "Часто возникаемые ошибки при настройке CAN/CAN FD",
+  "source": "@site/docs/SoftwareSetup/06-errors-rpi.md",
+  "sourceDirName": "SoftwareSetup",
+  "slug": "/SoftwareSetup/rpi-errors",
+  "permalink": "/docs/SoftwareSetup/rpi-errors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "rpi-errors",
+    "title": "Часто возникаемые ошибки при настройке CAN/CAN FD",
+    "sidebar_label": "Часто возникаемые ошибки при настройке CAN/CAN FD",
+    "sidebar_position": 6,
+    "description": "Часто возникаемые ошибки при настройке CAN/CAN FD"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Настройка RPI",
+    "permalink": "/docs/SoftwareSetup/rpi-setting"
+  },
+  "next": {
+    "title": "Настройка IMU BHI360",
+    "permalink": "/docs/SoftwareSetup/bhi360-setup"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "SoftwareSetup/stm32-cube-ide",
+  "title": "STM32 CUBE IDE",
+  "description": "STM32 CUBE IDE",
+  "source": "@site/docs/SoftwareSetup/04-STM32_CUBE_IDE.md",
+  "sourceDirName": "SoftwareSetup",
+  "slug": "/SoftwareSetup/stm32-cube-ide",
+  "permalink": "/docs/SoftwareSetup/stm32-cube-ide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "stm32-cube-ide",
+    "title": "STM32 CUBE IDE",
+    "sidebar_label": "STM32 CUBE IDE",
+    "sidebar_position": 4,
+    "description": "STM32 CUBE IDE"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Обзор доступного ПО",
+    "permalink": "/docs/SoftwareSetup/Arduino IDE/obzor-po"
+  },
+  "next": {
+    "title": "Настройка RPI",
+    "permalink": "/docs/SoftwareSetup/rpi-setting"
+  }
+}

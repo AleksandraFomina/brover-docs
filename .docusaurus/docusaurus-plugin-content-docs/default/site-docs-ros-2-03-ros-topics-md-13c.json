@@ -1,0 +1,30 @@
+{
+  "id": "ROS2/topics",
+  "title": "ROS топики",
+  "description": "ROS топики",
+  "source": "@site/docs/ROS2/03-ROS-topics.md",
+  "sourceDirName": "ROS2",
+  "slug": "/ROS2/topics",
+  "permalink": "/docs/ROS2/topics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "topics",
+    "title": "ROS топики",
+    "sidebar_label": "ROS топики",
+    "sidebar_position": 3,
+    "description": "ROS топики"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS ноды",
+    "permalink": "/docs/ROS2/nodes"
+  },
+  "next": {
+    "title": "ROS сервисы",
+    "permalink": "/docs/ROS2/services"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Introduction/imu-bhi360",
+  "title": "IMU датчик на основе BHI360",
+  "description": "Инерциальный датчик для роботов на основе BHI360",
+  "source": "@site/docs/Introduction/09-vb-imu-bhi360.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/bhi360",
+  "permalink": "/docs/Introduction/bhi360",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "imu-bhi360",
+    "slug": "bhi360",
+    "title": "IMU датчик на основе BHI360",
+    "sidebar_label": "Инерциальный датчик  BHI360",
+    "sidebar_position": 9,
+    "description": "Инерциальный датчик для роботов на основе BHI360"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Плата управление питанием 30А",
+    "permalink": "/docs/Introduction/powerboard"
+  },
+  "next": {
+    "title": "Инерциальный датчик BNO055",
+    "permalink": "/docs/Introduction/bno055"
+  }
+}

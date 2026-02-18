@@ -1,0 +1,30 @@
+{
+  "id": "Introduction/canfd-hat",
+  "title": "CAN-FD Raspberry PI адаптер",
+  "description": "2-х канальный адаптер CAN FD, плата расширения для Raspberry Pi",
+  "source": "@site/docs/Introduction/06-vb-canfd-rpi-hat.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/canfd-hat",
+  "permalink": "/docs/Introduction/canfd-hat",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "canfd-hat",
+    "title": "CAN-FD Raspberry PI адаптер",
+    "sidebar_label": "CAN-FD для Raspberry PI",
+    "sidebar_position": 6,
+    "description": "2-х канальный адаптер CAN FD, плата расширения для Raspberry Pi"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DC драйвер 15A",
+    "permalink": "/docs/Introduction/dc-driver"
+  },
+  "next": {
+    "title": "CAN-FD Ethernet конвертер",
+    "permalink": "/docs/Introduction/canfd-ethernet"
+  }
+}

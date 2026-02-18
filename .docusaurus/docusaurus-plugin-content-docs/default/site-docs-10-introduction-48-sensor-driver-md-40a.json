@@ -1,0 +1,24 @@
+{
+  "id": "introduction/sensor-driver",
+  "title": "Пакет sensor_driver",
+  "description": "Назначение: Пакет sensor_driver позволяет взаимодействовать с датчиком тока INA219",
+  "source": "@site/docs/10-introduction/48-sensor-driver.md",
+  "sourceDirName": "10-introduction",
+  "slug": "/introduction/sensor-driver",
+  "permalink": "/docs/introduction/sensor-driver",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 48,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Пакет voice_recognizer_pocketsphinx",
+    "permalink": "/docs/introduction/voice-recognizer-pocketsphinx"
+  },
+  "next": {
+    "title": "Пакет usb_cam",
+    "permalink": "/docs/introduction/usb-cam"
+  }
+}

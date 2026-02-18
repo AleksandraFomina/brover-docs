@@ -1,0 +1,30 @@
+{
+  "id": "Introduction/bldc-driver",
+  "title": "BLDC драйвер 30A",
+  "description": "Плата драйвер для упроавления бесколлекторными двигателями",
+  "source": "@site/docs/Introduction/03-vb-bldc-driver.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/bldc-driver",
+  "permalink": "/docs/Introduction/bldc-driver",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "bldc-driver",
+    "title": "BLDC драйвер 30A",
+    "sidebar_label": "BLDC драйвер 30A",
+    "sidebar_position": 3,
+    "description": "Плата драйвер для упроавления бесколлекторными двигателями"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Настройки сети и SSH",
+    "permalink": "/docs/Introduction/ssh-network-config"
+  },
+  "next": {
+    "title": "DC драйвер 15A",
+    "permalink": "/docs/Introduction/dc-driver"
+  }
+}
